@@ -1,0 +1,8 @@
+{
+  "name": "Remix Do It On Time",
+  "description": "Dynamic motionistic task manager with real-time progress tracking, urgency visuals, focus timer, and AI work breakdown assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
